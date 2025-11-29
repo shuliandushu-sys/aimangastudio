@@ -51,6 +51,9 @@ npm run preview
 - 前端：React + Vite + TypeScript
 - AI：Google GenAI（通过 `@google/genai` 包）
 
+## 部署与运维
+- 参考 [部署与运维优化指南](./docs/deployment-operations.md) 获取 Docker 化、CDN、灰度发布、监控与性能优化的落地实践。
+
 
 ## 一键部署
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/morsoli/aimangastudio)
