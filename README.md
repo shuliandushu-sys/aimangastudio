@@ -51,6 +51,9 @@ npm run preview
 - 前端：React + Vite + TypeScript
 - AI：Google GenAI（通过 `@google/genai` 包）
 
+## 架构规划
+详见《[系统架构规划](./docs/system-architecture.md)》，涵盖前后端选型、基础设施与 ER 模型基线。
+
 
 ## 一键部署
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/morsoli/aimangastudio)
